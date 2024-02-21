@@ -1,7 +1,7 @@
 # Manipulations with Map container as data storage study case
 
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/xhkayb68ne19xmh4?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-regex-phones)
+[![Build status](https://ci.appveyor.com/api/projects/status/krgxo347d2mtaw1g?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-containers-map)
 
 
 ## Задача 1
